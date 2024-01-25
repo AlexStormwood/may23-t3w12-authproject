@@ -4,9 +4,9 @@
 ## 25th Jan 2024
 
 Goals: 
-- Set up a MongoDB Cloud Atlas database
-- Configure environment variables in Express 
-- Deploy to Heroku
-- Config Vars (environment variables) in Heroku 
+- [x] Set up a MongoDB Cloud Atlas database
+- [x] Configure environment variables in Express 
+- [x] Deploy to Heroku
+- [x] Config Vars (environment variables) in Heroku 
 - Basic React app and deployment (to Netlify)
 - CORS in Express
