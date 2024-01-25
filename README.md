@@ -8,5 +8,5 @@ Goals:
 - [x] Configure environment variables in Express 
 - [x] Deploy to Heroku
 - [x] Config Vars (environment variables) in Heroku 
-- Basic React app and deployment (to Netlify)
-- CORS in Express
+- [ ] Basic React app and deployment (to Netlify)
+- [x] CORS in Express
