@@ -8,7 +8,7 @@ const app = express();
 var corsOptions = {
     origin: [
                 "localhost:3000", "localhost:3000/", 
-                "deployedFrontend.com", "deployedFrontend.com/"
+                "https://capable-pasca-8f64bf.netlify.app", "https://capable-pasca-8f64bf.netlify.app/"
         ],
     optionsSuccessStatus: 200,
 };
